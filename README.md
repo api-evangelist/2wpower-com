@@ -66,7 +66,7 @@
 
 2WinPower provides a B2B iGaming directory API offering structured reference data on casino software providers, game metadata, and market profiles. The service includes endpoints for searching providers, retrieving catalog entries, and accessing detailed game information, supporting integration and research for iGaming operators and developers.
 
-**Areas:** Company · iGaming · B2B · API · Directory
+**Areas:** Company · iGaming · B2B · Directory
 
 ## 2WinPower on APIs.io
 
@@ -80,6 +80,12 @@ Everything profiled for 2WinPower is published on APIs.io rather than in this re
 ### Published properties
 
 Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### MCP servers (1)
+
+Model Context Protocol servers that expose the API to agents.
+
+- [2wpower-com-mcp.yml](https://apis.io/servers/2wpower-com/2wpower-com-mcp-yml/)
 
 #### JSON Schema (6)
 
@@ -128,25 +134,25 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 37.8** — thin · rubric 0.28.0 · scored 2026-11-16
+**Kin Score 30.4** — thin · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 67.9 |
+| Discoverability | 58.9 |
 | Contract quality | 50.7 |
-| Contract governance | 79.1 |
+| Contract governance | 22.0 |
 | Operational transparency | 0.0 |
 | Developer ergonomics | 16.7 |
-| Access clarity | 32.3 |
+| Access clarity | 34.0 |
 
-**Agent readiness 16.8** — agent-aware
+**Agent readiness 13.4** — agent-aware
 
 | Agent-readiness dimension | Result |
 |---|---|
 | Spec Presence | yes |
 | Agentic Access | — |
 | Reversibility Documented | — |
-| MCP Server | documented (partial credit) |
+| MCP Server | — |
 | Auth Clarity | — |
 | Idempotency | — |
 | Error Semantics | derived (partial credit) |
@@ -165,6 +171,9 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Pagination Ratio | na |
 | Operation Distinctiveness | na |
 | MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
 **Regulatory alignment 8.8** — Horizontal (data, software, accessibility, platform)
 
